@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SunilDhansure
 - 🧑‍💼 I’m interested in Java Development 
-- 🌱 I’m currently work on Restful APIs
+- 🌱 I’m currently working on Restful APIs
 - 💞️ I’m making projects on the related domain
 - 📫 Reach me - sunildhansure1@gmail.com
